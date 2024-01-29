@@ -53,7 +53,7 @@ table {
 th, td {
     height: 77px;
     padding-left: 32px;
-    border-top: 1px solid #DFE0EB;
+    border-bottom: 1px solid #DFE0EB;
 }
 
 th {
